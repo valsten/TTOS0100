@@ -2,6 +2,6 @@
 
 Here's some text for you.
 
-## And some titles
+## Links
 
-### Another one
+[Google](www.google.fi)
